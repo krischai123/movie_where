@@ -23,7 +23,7 @@
     <nav class="sb-topnav navbar navbar-expand-lg navbar-light bg-light">
         <button class="btn btn-link btn-sm order-1 order-lg-0" id="sidebarToggle" href="#"><i
                 class="fas fa-bars"></i></button>
-        <a class="navbar-brand" href="#"><a class="navbar-brand" href="index.html"><img src="../../image/Mlogo.png"
+        <a class="navbar-brand" href="#"><a class="navbar-brand" href="index.php"><img src="../../image/Mlogo.png"
                     img-responsive" alt="Cinque Terre" width="50" height="50"></a></a>
 
 
@@ -101,26 +101,26 @@
                                 <div class="collapse" id="pagesCollapseError" aria-labelledby="headingOne"
                                     data-parent="#sidenavAccordionPages">
                                     <nav class="sb-sidenav-menu-nested nav">
-                                        <a class="nav-link" href="edit-movies.html"><i
+                                        <a class="nav-link" href="edit-movies.php"><i
                                                 class="fas fa-caret-square-right"></i>&nbsp;&nbsp;Movies</a>
-                                        <a class="nav-link" href="edit-genres.html"><i
+                                        <a class="nav-link" href="edit-genres.php"><i
                                                 class="fas fa-caret-square-right"></i>&nbsp;&nbsp;Genres</a>
-                                        <a class="nav-link" href="edit-actors.html"><i
+                                        <a class="nav-link" href="edit-actors.php"><i
                                                 class="fas fa-caret-square-right"></i>&nbsp;&nbsp;Actors</a>
-                                        <a class="nav-link" href="edit-roles.html"><i
+                                        <a class="nav-link" href="edit-roles.php"><i
                                                 class="fas fa-caret-square-right"></i>&nbsp;&nbsp;Roles</a>
-                                        <a class="nav-link" href="edit-directors.html"><i
+                                        <a class="nav-link" href="edit-directors.php"><i
                                                 class="fas fa-caret-square-right"></i>&nbsp;&nbsp;Directors</a>
-                                        <a class="nav-link" href="edit-writers.html"><i
+                                        <a class="nav-link" href="edit-writers.php"><i
                                                 class="fas fa-caret-square-right"></i>&nbsp;&nbsp;Writers</a>
-                                        <a class="nav-link" href="edit-productions.html"><i
+                                        <a class="nav-link" href="edit-productions.php"><i
                                                 class="fas fa-caret-square-right"></i>&nbsp;&nbsp;Productions</a>
                                     </nav>
                                 </div>
 
 
 
-                                <a class="nav-link" href="edit-list.html">
+                                <a class="nav-link" href="edit-list.php">
                                     <div class="sb-nav-link-icon"><i class="fas fa-edit"></i></div>
                                     Edit List
                                 </a>
@@ -159,7 +159,7 @@
                                     <div class="card bg-dark text-white mb-4">
                                         <div class="card-body">MOVIES</div>
                                         <div class="card-footer d-flex align-items-center justify-content-between">
-                                            <a class="small text-white stretched-link" href="edit-movies.html">Edit</a>
+                                            <a class="small text-white stretched-link" href="edit-movies.php">Edit</a>
                                             <div class="small text-white"><i class="fas fa-pen-alt"></i></div>
                                         </div>
                                     </div>
@@ -169,7 +169,7 @@
                                     <div class="card bg-secondary text-white mb-4">
                                         <div class="card-body">GENRES</div>
                                         <div class="card-footer d-flex align-items-center justify-content-between">
-                                            <a class="small text-white stretched-link" href="edit-genres.html">Edit</a>
+                                            <a class="small text-white stretched-link" href="edit-genres/edit-genres.php">Edit</a>
                                             <div class="small text-white"><i class="fas fa-pen-alt"></i></div>
                                         </div>
                                     </div>
@@ -179,7 +179,7 @@
                                     <div class="card bg-primary text-white mb-4">
                                         <div class="card-body">ACTORS</div>
                                         <div class="card-footer d-flex align-items-center justify-content-between">
-                                            <a class="small text-white stretched-link" href="edit-actors.html">Edit</a>
+                                            <a class="small text-white stretched-link" href="edit-actors/edit-actors.php">Edit</a>
                                             <div class="small text-white"><i class="fas fa-pen-alt"></i></div>
                                         </div>
                                     </div>
@@ -189,7 +189,7 @@
                                     <div class="card bg-info text-white mb-4">
                                         <div class="card-body">ROLES</div>
                                         <div class="card-footer d-flex align-items-center justify-content-between">
-                                            <a class="small text-white stretched-link" href="edit-roles.html">Edit</a>
+                                            <a class="small text-white stretched-link" href="edit-roles.php">Edit</a>
                                             <div class="small text-white"><i class="fas fa-pen-alt"></i></div>
                                         </div>
                                     </div>
@@ -200,7 +200,7 @@
                                         <div class="card-body">DIRECTORS</div>
                                         <div class="card-footer d-flex align-items-center justify-content-between">
                                             <a class="small text-white stretched-link"
-                                                href="edit-directors.html">Edit</a>
+                                                href="edit-directors/edit-directors.php">Edit</a>
                                             <div class="small text-white"><i class="fas fa-pen-alt"></i></div>
                                         </div>
                                     </div>
@@ -210,7 +210,7 @@
                                     <div class="card bg-warning text-white mb-4">
                                         <div class="card-body">WRITERS</div>
                                         <div class="card-footer d-flex align-items-center justify-content-between">
-                                            <a class="small text-white stretched-link" href="edit-writers.html">Edit</a>
+                                            <a class="small text-white stretched-link" href="edit-writers/edit-writers.php">Edit</a>
                                             <div class="small text-white"><i class="fas fa-pen-alt"></i></div>
                                         </div>
                                     </div>
@@ -221,7 +221,7 @@
                                         <div class="card-body">PRODUCTIONS</div>
                                         <div class="card-footer d-flex align-items-center justify-content-between">
                                             <a class="small text-white stretched-link"
-                                                href="edit-productions.html">Edit</a>
+                                                href="edit-productions/edit-productions.php">Edit</a>
                                             <div class="small text-white"><i class="fas fa-pen-alt"></i></div>
                                         </div>
                                     </div>
@@ -247,7 +247,7 @@
                                                 <div
                                                     class="card-footer bg-dark d-flex align-items-center justify-content-between">
                                                     <a class="small text-white stretched-link"
-                                                        href="index.html">Edit</a>
+                                                        href="index.php">Edit</a>
                                                     <div class="small text-white"><i class="fas fa-home"></i></div>
                                                 </div>
                                             </div>
@@ -258,7 +258,7 @@
                                                 <div
                                                     class="card-footer bg-dark d-flex align-items-center justify-content-between">
                                                     <a class="small text-white stretched-link"
-                                                        href="movies-list.html">Edit</a>
+                                                        href="movies-list.php">Edit</a>
                                                     <div class="small text-white"><i
                                                             class="fas fa-external-link-alt"></i></div>
                                                 </div>
